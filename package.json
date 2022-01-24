@@ -1,0 +1,26 @@
+{
+  "name": "mofron-util-errdlg",
+  "version": "0.0.2",
+  "description": "util function for mofron error dialog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-util-errdlg.git"
+  },
+  "dependencies": {
+    "mofron-comp-errdialog": ""
+  },
+  "keywords": [
+    "mofron",
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-util-errdlg/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-util-errdlg#readme"
+}
