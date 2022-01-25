@@ -25,7 +25,8 @@ module.exports = {
 		    1000
 		);
 	    });
-
+            
+	    mofron.root[0].child(errdlg);
 	    errdlg.visible(true);
 	} catch (e) {
             console.error(e.stack);
